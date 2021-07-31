@@ -3,7 +3,7 @@
 ##   Step : 1
 
 Clone this repository.\
-[https://github.com/ruttvikkheni/docker-node-typescript-mongo.catagory](https://github.com/bhavinsen/docker-node-typescript-mongo.catagory)
+[https://github.com/bhavinsen/docker-node-typescript-mongo.catagory.git](https://github.com/bhavinsen/docker-node-typescript-mongo.catagory.git)
 
 ## Step : 2
 
